@@ -1,7 +1,6 @@
 # bench
 
-Minimal CMake project that pulls in [Google Benchmark](https://github.com/google/benchmark)
-via `FetchContent` and benchmarks two functions to see how they scale with input size.
+Minimal CMake project that pulls in [Google Benchmark](https://github.com/google/benchmark) and does benchmarks of some example functions.
 
 
 ## Build & run
